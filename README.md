@@ -8,9 +8,7 @@ Test Case-1:
 
 Output-1:
 
-
 ![op-medicine-1](https://github.com/ishaan-shukla10/MedWings/assets/106727665/13028bea-7ae0-4a68-aeb4-a5c31ab0144d)
-
 
 Test Case-2:
 
@@ -18,15 +16,12 @@ Test Case-2:
 
 Output-2:
 
-
 ![op-medicine-2](https://github.com/ishaan-shukla10/MedWings/assets/106727665/20351be1-3a38-4b0f-9898-24e4dfeab58a)
-
 
 Test Case-3:
 
 ![medicine-3](https://github.com/ishaan-shukla10/MedWings/assets/106727665/5bcc62f6-ee75-4b06-8a6c-9aa63802be35)
 
 Output-3:
-
 
 ![op-medicine-3](https://github.com/ishaan-shukla10/MedWings/assets/106727665/067e7d76-cc01-4051-a3a3-964b803e54eb)
