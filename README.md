@@ -31,3 +31,18 @@ Output-3:
 
 ![op-medicine-3](https://github.com/ishaan-shukla10/MedWings/assets/106727665/81c33766-f6dd-4d52-9e23-00582d606ffb)
 
+Test Cases with quantities:
+
+1)
+    ![test_case_1](https://github.com/ishaan-shukla10/MedWings/assets/106727665/8c46f6b7-1268-4beb-84f2-3cd69221e2b3)
+
+   Output:
+   ![op-tc-1](https://github.com/ishaan-shukla10/MedWings/assets/106727665/124682cf-febf-4875-93aa-941b81fdd1f5)
+
+2) 
+    ![test_case_2](https://github.com/ishaan-shukla10/MedWings/assets/106727665/2c095ac0-118c-4141-abef-2533eea7c4f3)
+
+   Output:
+   ![op-tc-2](https://github.com/ishaan-shukla10/MedWings/assets/106727665/f4121a2f-9905-4006-a8fe-866089467620)
+
+
