@@ -1,7 +1,7 @@
 import cv2
 import pytesseract
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Users\ishaa\OneDrive\Desktop\OCR\Tesseract-OCR\tesseract"
+pytesseract.pytesseract.tesseract_cmd = "directory where tesseract is installed locally"
 
 
 images_array = []
